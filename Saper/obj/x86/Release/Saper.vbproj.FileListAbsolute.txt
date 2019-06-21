@@ -1,0 +1,338 @@
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\Saper\Saper\bin\Release\Saper.exe
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\Saper\Saper\bin\Release\Saper.pdb
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\Saper\Saper\bin\Release\Saper.xml
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\Saper\Saper\obj\x86\Release\Saper.exe
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\Saper\Saper\obj\x86\Release\Saper.xml
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\Saper\Saper\obj\x86\Release\Saper.pdb
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\Saper\Saper\obj\x86\Release\Saper.vbproj.GenerateResource.Cache
+D:\Downloads\Saper\Saper\obj\x86\Release\Saper.exe
+D:\Downloads\Saper\Saper\obj\x86\Release\Saper.xml
+D:\Downloads\Saper\Saper\obj\x86\Release\Saper.pdb
+D:\Downloads\Saper\Saper\bin\Release\Saper.exe
+D:\Downloads\Saper\Saper\bin\Release\Saper.pdb
+D:\Downloads\Saper\Saper\bin\Release\Saper.xml
+D:\Downloads\Saper\Saper\obj\x86\Release\WindowsApplication1.formHTML.resources
+D:\Downloads\Saper\Saper\obj\x86\Release\WindowsApplication1.formMain.resources
+D:\Downloads\Saper\Saper\obj\x86\Release\WindowsApplication1.Resources.resources
+D:\Downloads\Saper\Saper\obj\x86\Release\Saper.vbproj.GenerateResource.Cache
+C:\Users\GRAHAM\Desktop\Saper\Saper\Saper\obj\x86\Release\Saper.exe
+C:\Users\GRAHAM\Desktop\Saper\Saper\Saper\obj\x86\Release\Saper.xml
+C:\Users\GRAHAM\Desktop\Saper\Saper\Saper\obj\x86\Release\Saper.pdb
+C:\Users\GRAHAM\Desktop\Saper\Saper\Saper\bin\Release\Saper.exe
+C:\Users\GRAHAM\Desktop\Saper\Saper\Saper\bin\Release\Saper.pdb
+C:\Users\GRAHAM\Desktop\Saper\Saper\Saper\bin\Release\Saper.xml
+C:\Users\GRAHAM\Desktop\Saper\Saper\Saper\obj\x86\Release\WindowsApplication1.formHTML.resources
+C:\Users\GRAHAM\Desktop\Saper\Saper\Saper\obj\x86\Release\WindowsApplication1.formMain.resources
+C:\Users\GRAHAM\Desktop\Saper\Saper\Saper\obj\x86\Release\WindowsApplication1.Resources.resources
+C:\Users\GRAHAM\Desktop\Saper\Saper\Saper\obj\x86\Release\Saper.vbproj.GenerateResource.Cache
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\Saper\Saper\obj\x86\Release\Saper.vbprojResolveAssemblyReference.cache
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\Saper\Saper\obj\x86\Release\Saper.formHTML.resources
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\Saper\Saper\obj\x86\Release\Saper.formMain.resources
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\Saper\Saper\obj\x86\Release\Saper.formStats.resources
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\Saper\Saper\obj\x86\Release\Saper.Resources.resources
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\Saper\Saper\obj\x86\Release\Saper.formProject.resources
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\Saper\Saper\obj\x86\Release\Saper.formCaptcha.resources
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\Saper\Saper\obj\x86\Release\Saper.formCategories.resources
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\Saper\Saper\obj\x86\Release\Saper.formZones.resources
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\Saper\Saper\obj\x86\Release\Saper.formDetailedProject.resources
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\Saper\Saper\bin\Release\Saper.exe.config
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\Saper\Saper\obj\x86\Release\Saper.formMozCheck.resources
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\Saper\Saper\obj\x86\Release\Saper.formSettings.resources
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\Saper\Saper\obj\x86\Release\Saper.formUpdateLog.resources
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\Saper\Saper\obj\x86\Release\Saper.formCurrency.resources
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\Saper\Saper\obj\x86\Release\Saper.formLoading.resources
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\Saper\Saper\obj\x86\Release\Saper.formSaperStats.resources
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\SaperVB\Saper\bin\Release\Saper.exe.config
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\SaperVB\Saper\bin\Release\Saper.exe
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\SaperVB\Saper\bin\Release\Saper.pdb
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\SaperVB\Saper\bin\Release\Saper.xml
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\SaperVB\Saper\obj\x86\Release\Saper.formCaptcha.resources
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\SaperVB\Saper\obj\x86\Release\Saper.formCategories.resources
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\SaperVB\Saper\obj\x86\Release\Saper.formCurrency.resources
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\SaperVB\Saper\obj\x86\Release\Saper.formDetailedProject.resources
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\SaperVB\Saper\obj\x86\Release\Saper.formHTML.resources
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\SaperVB\Saper\obj\x86\Release\Saper.formMain.resources
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\SaperVB\Saper\obj\x86\Release\Saper.formMozCheck.resources
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\SaperVB\Saper\obj\x86\Release\Saper.formProject.resources
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\SaperVB\Saper\obj\x86\Release\Saper.formSaperStats.resources
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\SaperVB\Saper\obj\x86\Release\Saper.formSettings.resources
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\SaperVB\Saper\obj\x86\Release\Saper.formStats.resources
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\SaperVB\Saper\obj\x86\Release\Saper.formUpdateLog.resources
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\SaperVB\Saper\obj\x86\Release\Saper.formZones.resources
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\SaperVB\Saper\obj\x86\Release\Saper.Resources.resources
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\SaperVB\Saper\obj\x86\Release\Saper.formLoading.resources
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\SaperVB\Saper\obj\x86\Release\Saper.vbproj.GenerateResource.Cache
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\SaperVB\Saper\obj\x86\Release\Saper.exe
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\SaperVB\Saper\obj\x86\Release\Saper.xml
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\SaperVB\Saper\obj\x86\Release\Saper.pdb
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\SaperVB\Saper\obj\x86\Release\Saper.formDripFeeding.resources
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\SaperVB\Saper\obj\x86\Release\Saper.formPreviewText.resources
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\SaperVB\Saper\bin\Release\Newtonsoft.Json.dll
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\SaperVB\Saper\bin\Release\CookComputing.XmlRpcV2.dll
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\SaperVB\Saper\bin\Release\MySql.Data.dll
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\SaperVBHAP\Saper\bin\Release\Saper.exe.config
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\SaperVBHAP\Saper\obj\x86\Release\Saper.exe
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\SaperVBHAP\Saper\obj\x86\Release\Saper.xml
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\SaperVBHAP\Saper\obj\x86\Release\Saper.pdb
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\SaperVBHAP\Saper\bin\Release\Saper.exe
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\SaperVBHAP\Saper\bin\Release\Saper.pdb
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\SaperVBHAP\Saper\bin\Release\Saper.xml
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\SaperVBHAP\Saper\bin\Release\CookComputing.XmlRpcV2.dll
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\SaperVBHAP\Saper\bin\Release\HtmlAgilityPack.dll
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\SaperVBHAP\Saper\bin\Release\MySql.Data.dll
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\SaperVBHAP\Saper\bin\Release\Newtonsoft.Json.dll
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\SaperVBHAP\Saper\bin\Release\HtmlAgilityPack.pdb
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\SaperVBHAP\Saper\bin\Release\HtmlAgilityPack.xml
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\SaperVBHAP\Saper\obj\x86\Release\Saper.formCaptcha.resources
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\SaperVBHAP\Saper\obj\x86\Release\Saper.formCategories.resources
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\SaperVBHAP\Saper\obj\x86\Release\Saper.formCurrency.resources
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\SaperVBHAP\Saper\obj\x86\Release\Saper.formDetailedProject.resources
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\SaperVBHAP\Saper\obj\x86\Release\Saper.formDripFeeding.resources
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\SaperVBHAP\Saper\obj\x86\Release\Saper.formHTML.resources
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\SaperVBHAP\Saper\obj\x86\Release\Saper.formMain.resources
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\SaperVBHAP\Saper\obj\x86\Release\Saper.formMozCheck.resources
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\SaperVBHAP\Saper\obj\x86\Release\Saper.formPreviewText.resources
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\SaperVBHAP\Saper\obj\x86\Release\Saper.formProject.resources
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\SaperVBHAP\Saper\obj\x86\Release\Saper.formSaperStats.resources
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\SaperVBHAP\Saper\obj\x86\Release\Saper.formSettings.resources
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\SaperVBHAP\Saper\obj\x86\Release\Saper.formStats.resources
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\SaperVBHAP\Saper\obj\x86\Release\Saper.formUpdateLog.resources
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\SaperVBHAP\Saper\obj\x86\Release\Saper.formZones.resources
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\SaperVBHAP\Saper\obj\x86\Release\Saper.Resources.resources
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\SaperVBHAP\Saper\obj\x86\Release\Saper.formLoading.resources
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\SaperVBHAP\Saper\obj\x86\Release\Saper.vbproj.GenerateResource.Cache
+D:\UpWork\SaperVBHAP\Saper\bin\Release\Saper.exe.config
+D:\UpWork\SaperVBHAP\Saper\obj\x86\Release\Saper.exe
+D:\UpWork\SaperVBHAP\Saper\obj\x86\Release\Saper.xml
+D:\UpWork\SaperVBHAP\Saper\obj\x86\Release\Saper.pdb
+C:\Users\Graham\Desktop\Payday Dreams\PaydayDreamsProgramming\SaperVBHAP\Saper\obj\x86\Release\Saper.vbprojResolveAssemblyReference.cache
+C:\Users\Graham\Desktop\Payday Dreams\PaydayDreamsProgramming\SaperVB\Saper\bin\Release\HtmlAgilityPack.dll
+C:\Users\Graham\Desktop\Payday Dreams\PaydayDreamsProgramming\SaperVB\Saper\bin\Release\HtmlAgilityPack.pdb
+C:\Users\Graham\Desktop\Payday Dreams\PaydayDreamsProgramming\SaperVB\Saper\bin\Release\HtmlAgilityPack.xml
+D:\UpWork\Graham McCann\SaperVB_29_07_2015\SaperVB\Saper\bin\Release\Saper.exe.config
+D:\UpWork\Graham McCann\SaperVB_29_07_2015\SaperVB\Saper\obj\x86\Release\Saper.exe
+D:\UpWork\Graham McCann\SaperVB_29_07_2015\SaperVB\Saper\obj\x86\Release\Saper.xml
+D:\UpWork\Graham McCann\SaperVB_29_07_2015\SaperVB\Saper\obj\x86\Release\Saper.pdb
+D:\UpWork\Graham McCann\SaperVB_29_07_2015\SaperVB\Saper\bin\Release\Saper.exe
+D:\UpWork\Graham McCann\SaperVB_29_07_2015\SaperVB\Saper\bin\Release\Saper.pdb
+D:\UpWork\Graham McCann\SaperVB_29_07_2015\SaperVB\Saper\bin\Release\Saper.xml
+D:\UpWork\Graham McCann\SaperVB_29_07_2015\SaperVB\Saper\bin\Release\CookComputing.XmlRpcV2.dll
+D:\UpWork\Graham McCann\SaperVB_29_07_2015\SaperVB\Saper\bin\Release\MySql.Data.dll
+D:\UpWork\Graham McCann\SaperVB_29_07_2015\SaperVB\Saper\bin\Release\Newtonsoft.Json.dll
+D:\UpWork\Graham McCann\SaperVB_29_07_2015\SaperVB\Saper\bin\Release\HtmlAgilityPack.pdb
+D:\UpWork\Graham McCann\SaperVB_29_07_2015\SaperVB\Saper\bin\Release\HtmlAgilityPack.xml
+D:\UpWork\Graham McCann\SaperVB_29_07_2015\SaperVB\Saper\obj\x86\Release\Saper.vbprojResolveAssemblyReference.cache
+D:\UpWork\Graham McCann\SaperVB_29_07_2015\SaperVB\Saper\obj\x86\Release\Saper.formCaptcha.resources
+D:\UpWork\Graham McCann\SaperVB_29_07_2015\SaperVB\Saper\obj\x86\Release\Saper.formCategories.resources
+D:\UpWork\Graham McCann\SaperVB_29_07_2015\SaperVB\Saper\obj\x86\Release\Saper.formCurrency.resources
+D:\UpWork\Graham McCann\SaperVB_29_07_2015\SaperVB\Saper\obj\x86\Release\Saper.formDetailedProject.resources
+D:\UpWork\Graham McCann\SaperVB_29_07_2015\SaperVB\Saper\obj\x86\Release\Saper.formDripFeeding.resources
+D:\UpWork\Graham McCann\SaperVB_29_07_2015\SaperVB\Saper\obj\x86\Release\Saper.formHTML.resources
+D:\UpWork\Graham McCann\SaperVB_29_07_2015\SaperVB\Saper\obj\x86\Release\Saper.formMain.resources
+D:\UpWork\Graham McCann\SaperVB_29_07_2015\SaperVB\Saper\obj\x86\Release\Saper.formMozCheck.resources
+D:\UpWork\Graham McCann\SaperVB_29_07_2015\SaperVB\Saper\obj\x86\Release\Saper.formPreviewText.resources
+D:\UpWork\Graham McCann\SaperVB_29_07_2015\SaperVB\Saper\obj\x86\Release\Saper.formProject.resources
+D:\UpWork\Graham McCann\SaperVB_29_07_2015\SaperVB\Saper\obj\x86\Release\Saper.formSaperStats.resources
+D:\UpWork\Graham McCann\SaperVB_29_07_2015\SaperVB\Saper\obj\x86\Release\Saper.formSettings.resources
+D:\UpWork\Graham McCann\SaperVB_29_07_2015\SaperVB\Saper\obj\x86\Release\Saper.formStats.resources
+D:\UpWork\Graham McCann\SaperVB_29_07_2015\SaperVB\Saper\obj\x86\Release\Saper.formUpdateLog.resources
+D:\UpWork\Graham McCann\SaperVB_29_07_2015\SaperVB\Saper\obj\x86\Release\Saper.formZones.resources
+D:\UpWork\Graham McCann\SaperVB_29_07_2015\SaperVB\Saper\obj\x86\Release\Saper.Resources.resources
+D:\UpWork\Graham McCann\SaperVB_29_07_2015\SaperVB\Saper\obj\x86\Release\Saper.formLoading.resources
+D:\UpWork\Graham McCann\SaperVB_29_07_2015\SaperVB\Saper\obj\x86\Release\Saper.vbproj.GenerateResource.Cache
+D:\UpWork\Graham McCann\SaperVB_29_07_2015_Edit\SaperVB\Saper\bin\Release\Saper.exe.config
+D:\UpWork\Graham McCann\SaperVB_29_07_2015_Edit\SaperVB\Saper\obj\x86\Release\Saper.exe
+D:\UpWork\Graham McCann\SaperVB_29_07_2015_Edit\SaperVB\Saper\obj\x86\Release\Saper.xml
+D:\UpWork\Graham McCann\SaperVB_29_07_2015_Edit\SaperVB\Saper\obj\x86\Release\Saper.pdb
+D:\UpWork\Graham McCann\SaperVB_29_07_2015_Edit\SaperVB\Saper\bin\Release\Saper.exe
+D:\UpWork\Graham McCann\SaperVB_29_07_2015_Edit\SaperVB\Saper\bin\Release\Saper.pdb
+D:\UpWork\Graham McCann\SaperVB_29_07_2015_Edit\SaperVB\Saper\bin\Release\Saper.xml
+D:\UpWork\Graham McCann\SaperVB_29_07_2015_Edit\SaperVB\Saper\bin\Release\CookComputing.XmlRpcV2.dll
+D:\UpWork\Graham McCann\SaperVB_29_07_2015_Edit\SaperVB\Saper\bin\Release\MySql.Data.dll
+D:\UpWork\Graham McCann\SaperVB_29_07_2015_Edit\SaperVB\Saper\bin\Release\Newtonsoft.Json.dll
+D:\UpWork\Graham McCann\SaperVB_29_07_2015_Edit\SaperVB\Saper\bin\Release\HtmlAgilityPack.pdb
+D:\UpWork\Graham McCann\SaperVB_29_07_2015_Edit\SaperVB\Saper\bin\Release\HtmlAgilityPack.xml
+D:\UpWork\Graham McCann\SaperVB_29_07_2015_Edit\SaperVB\Saper\obj\x86\Release\Saper.vbprojResolveAssemblyReference.cache
+D:\UpWork\Graham McCann\SaperVB_29_07_2015_Edit\SaperVB\Saper\obj\x86\Release\Saper.formCaptcha.resources
+D:\UpWork\Graham McCann\SaperVB_29_07_2015_Edit\SaperVB\Saper\obj\x86\Release\Saper.formCategories.resources
+D:\UpWork\Graham McCann\SaperVB_29_07_2015_Edit\SaperVB\Saper\obj\x86\Release\Saper.formCurrency.resources
+D:\UpWork\Graham McCann\SaperVB_29_07_2015_Edit\SaperVB\Saper\obj\x86\Release\Saper.formDetailedProject.resources
+D:\UpWork\Graham McCann\SaperVB_29_07_2015_Edit\SaperVB\Saper\obj\x86\Release\Saper.formDripFeeding.resources
+D:\UpWork\Graham McCann\SaperVB_29_07_2015_Edit\SaperVB\Saper\obj\x86\Release\Saper.formHTML.resources
+D:\UpWork\Graham McCann\SaperVB_29_07_2015_Edit\SaperVB\Saper\obj\x86\Release\Saper.formMain.resources
+D:\UpWork\Graham McCann\SaperVB_29_07_2015_Edit\SaperVB\Saper\obj\x86\Release\Saper.formMozCheck.resources
+D:\UpWork\Graham McCann\SaperVB_29_07_2015_Edit\SaperVB\Saper\obj\x86\Release\Saper.formPreviewText.resources
+D:\UpWork\Graham McCann\SaperVB_29_07_2015_Edit\SaperVB\Saper\obj\x86\Release\Saper.formProject.resources
+D:\UpWork\Graham McCann\SaperVB_29_07_2015_Edit\SaperVB\Saper\obj\x86\Release\Saper.formSaperStats.resources
+D:\UpWork\Graham McCann\SaperVB_29_07_2015_Edit\SaperVB\Saper\obj\x86\Release\Saper.formSettings.resources
+D:\UpWork\Graham McCann\SaperVB_29_07_2015_Edit\SaperVB\Saper\obj\x86\Release\Saper.formStats.resources
+D:\UpWork\Graham McCann\SaperVB_29_07_2015_Edit\SaperVB\Saper\obj\x86\Release\Saper.formUpdateLog.resources
+D:\UpWork\Graham McCann\SaperVB_29_07_2015_Edit\SaperVB\Saper\obj\x86\Release\Saper.formZones.resources
+D:\UpWork\Graham McCann\SaperVB_29_07_2015_Edit\SaperVB\Saper\obj\x86\Release\Saper.Resources.resources
+D:\UpWork\Graham McCann\SaperVB_29_07_2015_Edit\SaperVB\Saper\obj\x86\Release\Saper.formLoading.resources
+D:\UpWork\Graham McCann\SaperVB_29_07_2015_Edit\SaperVB\Saper\obj\x86\Release\Saper.vbproj.GenerateResource.Cache
+C:\Users\Graham\Desktop\Downloads\SaperVB_29_07_2015_Edit_2\SaperVB_29_07_2015_Edit\SaperVB\Saper\bin\Release\Saper.exe.config
+C:\Users\Graham\Desktop\Downloads\SaperVB_29_07_2015_Edit_2\SaperVB_29_07_2015_Edit\SaperVB\Saper\obj\x86\Release\Saper.exe
+C:\Users\Graham\Desktop\Downloads\SaperVB_29_07_2015_Edit_2\SaperVB_29_07_2015_Edit\SaperVB\Saper\obj\x86\Release\Saper.xml
+C:\Users\Graham\Desktop\Downloads\SaperVB_29_07_2015_Edit_2\SaperVB_29_07_2015_Edit\SaperVB\Saper\obj\x86\Release\Saper.pdb
+C:\Users\Graham\Desktop\Downloads\SaperVB_29_07_2015_Edit_2\SaperVB_29_07_2015_Edit\SaperVB\Saper\bin\Release\Saper.exe
+C:\Users\Graham\Desktop\Downloads\SaperVB_29_07_2015_Edit_2\SaperVB_29_07_2015_Edit\SaperVB\Saper\bin\Release\Saper.pdb
+C:\Users\Graham\Desktop\Downloads\SaperVB_29_07_2015_Edit_2\SaperVB_29_07_2015_Edit\SaperVB\Saper\bin\Release\Saper.xml
+C:\Users\Graham\Desktop\Downloads\SaperVB_29_07_2015_Edit_2\SaperVB_29_07_2015_Edit\SaperVB\Saper\bin\Release\CookComputing.XmlRpcV2.dll
+C:\Users\Graham\Desktop\Downloads\SaperVB_29_07_2015_Edit_2\SaperVB_29_07_2015_Edit\SaperVB\Saper\bin\Release\MySql.Data.dll
+C:\Users\Graham\Desktop\Downloads\SaperVB_29_07_2015_Edit_2\SaperVB_29_07_2015_Edit\SaperVB\Saper\bin\Release\Newtonsoft.Json.dll
+C:\Users\Graham\Desktop\Downloads\SaperVB_29_07_2015_Edit_2\SaperVB_29_07_2015_Edit\SaperVB\Saper\bin\Release\HtmlAgilityPack.pdb
+C:\Users\Graham\Desktop\Downloads\SaperVB_29_07_2015_Edit_2\SaperVB_29_07_2015_Edit\SaperVB\Saper\bin\Release\HtmlAgilityPack.xml
+C:\Users\Graham\Desktop\Downloads\SaperVB_29_07_2015_Edit_2\SaperVB_29_07_2015_Edit\SaperVB\Saper\obj\x86\Release\Saper.vbprojResolveAssemblyReference.cache
+C:\Users\Graham\Desktop\Downloads\SaperVB_29_07_2015_Edit_2\SaperVB_29_07_2015_Edit\SaperVB\Saper\obj\x86\Release\Saper.formCaptcha.resources
+C:\Users\Graham\Desktop\Downloads\SaperVB_29_07_2015_Edit_2\SaperVB_29_07_2015_Edit\SaperVB\Saper\obj\x86\Release\Saper.formCategories.resources
+C:\Users\Graham\Desktop\Downloads\SaperVB_29_07_2015_Edit_2\SaperVB_29_07_2015_Edit\SaperVB\Saper\obj\x86\Release\Saper.formCurrency.resources
+C:\Users\Graham\Desktop\Downloads\SaperVB_29_07_2015_Edit_2\SaperVB_29_07_2015_Edit\SaperVB\Saper\obj\x86\Release\Saper.formDetailedProject.resources
+C:\Users\Graham\Desktop\Downloads\SaperVB_29_07_2015_Edit_2\SaperVB_29_07_2015_Edit\SaperVB\Saper\obj\x86\Release\Saper.formDripFeeding.resources
+C:\Users\Graham\Desktop\Downloads\SaperVB_29_07_2015_Edit_2\SaperVB_29_07_2015_Edit\SaperVB\Saper\obj\x86\Release\Saper.formHTML.resources
+C:\Users\Graham\Desktop\Downloads\SaperVB_29_07_2015_Edit_2\SaperVB_29_07_2015_Edit\SaperVB\Saper\obj\x86\Release\Saper.formMain.resources
+C:\Users\Graham\Desktop\Downloads\SaperVB_29_07_2015_Edit_2\SaperVB_29_07_2015_Edit\SaperVB\Saper\obj\x86\Release\Saper.formMozCheck.resources
+C:\Users\Graham\Desktop\Downloads\SaperVB_29_07_2015_Edit_2\SaperVB_29_07_2015_Edit\SaperVB\Saper\obj\x86\Release\Saper.formPreviewText.resources
+C:\Users\Graham\Desktop\Downloads\SaperVB_29_07_2015_Edit_2\SaperVB_29_07_2015_Edit\SaperVB\Saper\obj\x86\Release\Saper.formProject.resources
+C:\Users\Graham\Desktop\Downloads\SaperVB_29_07_2015_Edit_2\SaperVB_29_07_2015_Edit\SaperVB\Saper\obj\x86\Release\Saper.formSaperStats.resources
+C:\Users\Graham\Desktop\Downloads\SaperVB_29_07_2015_Edit_2\SaperVB_29_07_2015_Edit\SaperVB\Saper\obj\x86\Release\Saper.formSettings.resources
+C:\Users\Graham\Desktop\Downloads\SaperVB_29_07_2015_Edit_2\SaperVB_29_07_2015_Edit\SaperVB\Saper\obj\x86\Release\Saper.formStats.resources
+C:\Users\Graham\Desktop\Downloads\SaperVB_29_07_2015_Edit_2\SaperVB_29_07_2015_Edit\SaperVB\Saper\obj\x86\Release\Saper.formUpdateLog.resources
+C:\Users\Graham\Desktop\Downloads\SaperVB_29_07_2015_Edit_2\SaperVB_29_07_2015_Edit\SaperVB\Saper\obj\x86\Release\Saper.formZones.resources
+C:\Users\Graham\Desktop\Downloads\SaperVB_29_07_2015_Edit_2\SaperVB_29_07_2015_Edit\SaperVB\Saper\obj\x86\Release\Saper.Resources.resources
+C:\Users\Graham\Desktop\Downloads\SaperVB_29_07_2015_Edit_2\SaperVB_29_07_2015_Edit\SaperVB\Saper\obj\x86\Release\Saper.formLoading.resources
+C:\Users\Graham\Desktop\Downloads\SaperVB_29_07_2015_Edit_2\SaperVB_29_07_2015_Edit\SaperVB\Saper\obj\x86\Release\Saper.vbproj.GenerateResource.Cache
+D:\UpWork\Graham McCann\SaperVB_09_08_2015\Saper\bin\Release\Saper.exe.config
+D:\UpWork\Graham McCann\SaperVB_09_08_2015\Saper\obj\x86\Release\Saper.exe
+D:\UpWork\Graham McCann\SaperVB_09_08_2015\Saper\obj\x86\Release\Saper.xml
+D:\UpWork\Graham McCann\SaperVB_09_08_2015\Saper\obj\x86\Release\Saper.pdb
+D:\UpWork\Graham McCann\SaperVB_09_08_2015\Saper\bin\Release\Saper.exe
+D:\UpWork\Graham McCann\SaperVB_09_08_2015\Saper\bin\Release\Saper.pdb
+D:\UpWork\Graham McCann\SaperVB_09_08_2015\Saper\bin\Release\Saper.xml
+D:\UpWork\Graham McCann\SaperVB_09_08_2015\Saper\bin\Release\CookComputing.XmlRpcV2.dll
+D:\UpWork\Graham McCann\SaperVB_09_08_2015\Saper\bin\Release\MySql.Data.dll
+D:\UpWork\Graham McCann\SaperVB_09_08_2015\Saper\bin\Release\Newtonsoft.Json.dll
+D:\UpWork\Graham McCann\SaperVB_09_08_2015\Saper\bin\Release\HtmlAgilityPack.xml
+D:\UpWork\Graham McCann\SaperVB_09_08_2015\Saper\obj\x86\Release\Saper.formActivation.resources
+D:\UpWork\Graham McCann\SaperVB_09_08_2015\Saper\obj\x86\Release\Saper.formCaptcha.resources
+D:\UpWork\Graham McCann\SaperVB_09_08_2015\Saper\obj\x86\Release\Saper.formCategories.resources
+D:\UpWork\Graham McCann\SaperVB_09_08_2015\Saper\obj\x86\Release\Saper.formCurrency.resources
+D:\UpWork\Graham McCann\SaperVB_09_08_2015\Saper\obj\x86\Release\Saper.formDetailedProject.resources
+D:\UpWork\Graham McCann\SaperVB_09_08_2015\Saper\obj\x86\Release\Saper.formDripFeeding.resources
+D:\UpWork\Graham McCann\SaperVB_09_08_2015\Saper\obj\x86\Release\Saper.formHTML.resources
+D:\UpWork\Graham McCann\SaperVB_09_08_2015\Saper\obj\x86\Release\Saper.formMain.resources
+D:\UpWork\Graham McCann\SaperVB_09_08_2015\Saper\obj\x86\Release\Saper.formMozCheck.resources
+D:\UpWork\Graham McCann\SaperVB_09_08_2015\Saper\obj\x86\Release\Saper.formPreviewText.resources
+D:\UpWork\Graham McCann\SaperVB_09_08_2015\Saper\obj\x86\Release\Saper.formProject.resources
+D:\UpWork\Graham McCann\SaperVB_09_08_2015\Saper\obj\x86\Release\Saper.formSaperStats.resources
+D:\UpWork\Graham McCann\SaperVB_09_08_2015\Saper\obj\x86\Release\Saper.formSettings.resources
+D:\UpWork\Graham McCann\SaperVB_09_08_2015\Saper\obj\x86\Release\Saper.formStats.resources
+D:\UpWork\Graham McCann\SaperVB_09_08_2015\Saper\obj\x86\Release\Saper.formUpdateLog.resources
+D:\UpWork\Graham McCann\SaperVB_09_08_2015\Saper\obj\x86\Release\Saper.formZones.resources
+D:\UpWork\Graham McCann\SaperVB_09_08_2015\Saper\obj\x86\Release\Saper.Resources.resources
+D:\UpWork\Graham McCann\SaperVB_09_08_2015\Saper\obj\x86\Release\Saper.formLoading.resources
+D:\UpWork\Graham McCann\SaperVB_09_08_2015\Saper\obj\x86\Release\Saper.vbproj.GenerateResource.Cache
+C:\Users\Graham\Desktop\Downloads\SaperVB_09_08_2015_Edit_2\SaperVB_09_08_2015_Edit_2\Saper\bin\Release\Saper.exe.config
+C:\Users\Graham\Desktop\Downloads\SaperVB_09_08_2015_Edit_2\SaperVB_09_08_2015_Edit_2\Saper\obj\x86\Release\Saper.exe
+C:\Users\Graham\Desktop\Downloads\SaperVB_09_08_2015_Edit_2\SaperVB_09_08_2015_Edit_2\Saper\obj\x86\Release\Saper.xml
+C:\Users\Graham\Desktop\Downloads\SaperVB_09_08_2015_Edit_2\SaperVB_09_08_2015_Edit_2\Saper\obj\x86\Release\Saper.pdb
+C:\Users\Graham\Desktop\Downloads\SaperVB_09_08_2015_Edit_2\SaperVB_09_08_2015_Edit_2\Saper\bin\Release\Saper.exe
+C:\Users\Graham\Desktop\Downloads\SaperVB_09_08_2015_Edit_2\SaperVB_09_08_2015_Edit_2\Saper\bin\Release\Saper.pdb
+C:\Users\Graham\Desktop\Downloads\SaperVB_09_08_2015_Edit_2\SaperVB_09_08_2015_Edit_2\Saper\bin\Release\Saper.xml
+C:\Users\Graham\Desktop\Downloads\SaperVB_09_08_2015_Edit_2\SaperVB_09_08_2015_Edit_2\Saper\bin\Release\CookComputing.XmlRpcV2.dll
+C:\Users\Graham\Desktop\Downloads\SaperVB_09_08_2015_Edit_2\SaperVB_09_08_2015_Edit_2\Saper\bin\Release\MySql.Data.dll
+C:\Users\Graham\Desktop\Downloads\SaperVB_09_08_2015_Edit_2\SaperVB_09_08_2015_Edit_2\Saper\bin\Release\Newtonsoft.Json.dll
+C:\Users\Graham\Desktop\Downloads\SaperVB_09_08_2015_Edit_2\SaperVB_09_08_2015_Edit_2\Saper\obj\x86\Release\Saper.vbprojResolveAssemblyReference.cache
+C:\Users\Graham\Desktop\Downloads\SaperVB_09_08_2015_Edit_2\SaperVB_09_08_2015_Edit_2\Saper\obj\x86\Release\Saper.formActivation.resources
+C:\Users\Graham\Desktop\Downloads\SaperVB_09_08_2015_Edit_2\SaperVB_09_08_2015_Edit_2\Saper\obj\x86\Release\Saper.formCaptcha.resources
+C:\Users\Graham\Desktop\Downloads\SaperVB_09_08_2015_Edit_2\SaperVB_09_08_2015_Edit_2\Saper\obj\x86\Release\Saper.formCategories.resources
+C:\Users\Graham\Desktop\Downloads\SaperVB_09_08_2015_Edit_2\SaperVB_09_08_2015_Edit_2\Saper\obj\x86\Release\Saper.formCurrency.resources
+C:\Users\Graham\Desktop\Downloads\SaperVB_09_08_2015_Edit_2\SaperVB_09_08_2015_Edit_2\Saper\obj\x86\Release\Saper.formDetailedProject.resources
+C:\Users\Graham\Desktop\Downloads\SaperVB_09_08_2015_Edit_2\SaperVB_09_08_2015_Edit_2\Saper\obj\x86\Release\Saper.formDripFeeding.resources
+C:\Users\Graham\Desktop\Downloads\SaperVB_09_08_2015_Edit_2\SaperVB_09_08_2015_Edit_2\Saper\obj\x86\Release\Saper.formHTML.resources
+C:\Users\Graham\Desktop\Downloads\SaperVB_09_08_2015_Edit_2\SaperVB_09_08_2015_Edit_2\Saper\obj\x86\Release\Saper.formMain.resources
+C:\Users\Graham\Desktop\Downloads\SaperVB_09_08_2015_Edit_2\SaperVB_09_08_2015_Edit_2\Saper\obj\x86\Release\Saper.formMozCheck.resources
+C:\Users\Graham\Desktop\Downloads\SaperVB_09_08_2015_Edit_2\SaperVB_09_08_2015_Edit_2\Saper\obj\x86\Release\Saper.formPreviewText.resources
+C:\Users\Graham\Desktop\Downloads\SaperVB_09_08_2015_Edit_2\SaperVB_09_08_2015_Edit_2\Saper\obj\x86\Release\Saper.formProject.resources
+C:\Users\Graham\Desktop\Downloads\SaperVB_09_08_2015_Edit_2\SaperVB_09_08_2015_Edit_2\Saper\obj\x86\Release\Saper.formSaperStats.resources
+C:\Users\Graham\Desktop\Downloads\SaperVB_09_08_2015_Edit_2\SaperVB_09_08_2015_Edit_2\Saper\obj\x86\Release\Saper.formSettings.resources
+C:\Users\Graham\Desktop\Downloads\SaperVB_09_08_2015_Edit_2\SaperVB_09_08_2015_Edit_2\Saper\obj\x86\Release\Saper.formStats.resources
+C:\Users\Graham\Desktop\Downloads\SaperVB_09_08_2015_Edit_2\SaperVB_09_08_2015_Edit_2\Saper\obj\x86\Release\Saper.formUpdateLog.resources
+C:\Users\Graham\Desktop\Downloads\SaperVB_09_08_2015_Edit_2\SaperVB_09_08_2015_Edit_2\Saper\obj\x86\Release\Saper.formZones.resources
+C:\Users\Graham\Desktop\Downloads\SaperVB_09_08_2015_Edit_2\SaperVB_09_08_2015_Edit_2\Saper\obj\x86\Release\Saper.Resources.resources
+C:\Users\Graham\Desktop\Downloads\SaperVB_09_08_2015_Edit_2\SaperVB_09_08_2015_Edit_2\Saper\obj\x86\Release\Saper.formLoading.resources
+C:\Users\Graham\Desktop\Downloads\SaperVB_09_08_2015_Edit_2\SaperVB_09_08_2015_Edit_2\Saper\obj\x86\Release\Saper.vbproj.GenerateResource.Cache
+C:\Users\Graham\Desktop\Payday Dreams\PaydayDreamsProgramming\SaperVB\Saper\obj\x86\Release\Saper.formTwitter.resources
+C:\Users\Graham\Desktop\Payday Dreams\PaydayDreamsProgramming\SaperVB\Saper\obj\x86\Release\Saper.vbprojResolveAssemblyReference.cache
+C:\Users\Graham\Desktop\Folders\Payday-Dreams\PaydayDreamsProgramming\SaperVB\Saper\bin\Release\Saper.exe.config
+C:\Users\Graham\Desktop\Folders\Payday-Dreams\PaydayDreamsProgramming\SaperVB\Saper\obj\x86\Release\Saper.exe
+C:\Users\Graham\Desktop\Folders\Payday-Dreams\PaydayDreamsProgramming\SaperVB\Saper\obj\x86\Release\Saper.xml
+C:\Users\Graham\Desktop\Folders\Payday-Dreams\PaydayDreamsProgramming\SaperVB\Saper\obj\x86\Release\Saper.pdb
+C:\Users\Graham\Desktop\Folders\Payday-Dreams\PaydayDreamsProgramming\SaperVB\Saper\bin\Release\Saper.exe
+C:\Users\Graham\Desktop\Folders\Payday-Dreams\PaydayDreamsProgramming\SaperVB\Saper\bin\Release\Saper.pdb
+C:\Users\Graham\Desktop\Folders\Payday-Dreams\PaydayDreamsProgramming\SaperVB\Saper\bin\Release\Saper.xml
+C:\Users\Graham\Desktop\Folders\Payday-Dreams\PaydayDreamsProgramming\SaperVB\Saper\bin\Release\CookComputing.XmlRpcV2.dll
+C:\Users\Graham\Desktop\Folders\Payday-Dreams\PaydayDreamsProgramming\SaperVB\Saper\bin\Release\HtmlAgilityPack.dll
+C:\Users\Graham\Desktop\Folders\Payday-Dreams\PaydayDreamsProgramming\SaperVB\Saper\bin\Release\MySql.Data.dll
+C:\Users\Graham\Desktop\Folders\Payday-Dreams\PaydayDreamsProgramming\SaperVB\Saper\bin\Release\Newtonsoft.Json.dll
+C:\Users\Graham\Desktop\Folders\Payday-Dreams\PaydayDreamsProgramming\SaperVB\Saper\bin\Release\HtmlAgilityPack.pdb
+C:\Users\Graham\Desktop\Folders\Payday-Dreams\PaydayDreamsProgramming\SaperVB\Saper\bin\Release\HtmlAgilityPack.xml
+C:\Users\Graham\Desktop\Folders\Payday-Dreams\PaydayDreamsProgramming\SaperVB\Saper\obj\x86\Release\Saper.vbprojResolveAssemblyReference.cache
+C:\Users\Graham\Desktop\Folders\Payday-Dreams\PaydayDreamsProgramming\SaperVB\Saper\obj\x86\Release\Saper.formCaptcha.resources
+C:\Users\Graham\Desktop\Folders\Payday-Dreams\PaydayDreamsProgramming\SaperVB\Saper\obj\x86\Release\Saper.formCategories.resources
+C:\Users\Graham\Desktop\Folders\Payday-Dreams\PaydayDreamsProgramming\SaperVB\Saper\obj\x86\Release\Saper.formCurrency.resources
+C:\Users\Graham\Desktop\Folders\Payday-Dreams\PaydayDreamsProgramming\SaperVB\Saper\obj\x86\Release\Saper.formDetailedProject.resources
+C:\Users\Graham\Desktop\Folders\Payday-Dreams\PaydayDreamsProgramming\SaperVB\Saper\obj\x86\Release\Saper.formDripFeeding.resources
+C:\Users\Graham\Desktop\Folders\Payday-Dreams\PaydayDreamsProgramming\SaperVB\Saper\obj\x86\Release\Saper.formHTML.resources
+C:\Users\Graham\Desktop\Folders\Payday-Dreams\PaydayDreamsProgramming\SaperVB\Saper\obj\x86\Release\Saper.formMain.resources
+C:\Users\Graham\Desktop\Folders\Payday-Dreams\PaydayDreamsProgramming\SaperVB\Saper\obj\x86\Release\Saper.formMozCheck.resources
+C:\Users\Graham\Desktop\Folders\Payday-Dreams\PaydayDreamsProgramming\SaperVB\Saper\obj\x86\Release\Saper.formPreviewText.resources
+C:\Users\Graham\Desktop\Folders\Payday-Dreams\PaydayDreamsProgramming\SaperVB\Saper\obj\x86\Release\Saper.formProject.resources
+C:\Users\Graham\Desktop\Folders\Payday-Dreams\PaydayDreamsProgramming\SaperVB\Saper\obj\x86\Release\Saper.formSaperStats.resources
+C:\Users\Graham\Desktop\Folders\Payday-Dreams\PaydayDreamsProgramming\SaperVB\Saper\obj\x86\Release\Saper.formSettings.resources
+C:\Users\Graham\Desktop\Folders\Payday-Dreams\PaydayDreamsProgramming\SaperVB\Saper\obj\x86\Release\Saper.formStats.resources
+C:\Users\Graham\Desktop\Folders\Payday-Dreams\PaydayDreamsProgramming\SaperVB\Saper\obj\x86\Release\Saper.formTwitter.resources
+C:\Users\Graham\Desktop\Folders\Payday-Dreams\PaydayDreamsProgramming\SaperVB\Saper\obj\x86\Release\Saper.formUpdateLog.resources
+C:\Users\Graham\Desktop\Folders\Payday-Dreams\PaydayDreamsProgramming\SaperVB\Saper\obj\x86\Release\Saper.formZones.resources
+C:\Users\Graham\Desktop\Folders\Payday-Dreams\PaydayDreamsProgramming\SaperVB\Saper\obj\x86\Release\Saper.Resources.resources
+C:\Users\Graham\Desktop\Folders\Payday-Dreams\PaydayDreamsProgramming\SaperVB\Saper\obj\x86\Release\Saper.formLoading.resources
+C:\Users\Graham\Desktop\Folders\Payday-Dreams\PaydayDreamsProgramming\SaperVB\Saper\obj\x86\Release\Saper.vbproj.GenerateResource.Cache
+C:\Users\Graham\Desktop\Files\Payday-Dreams\PaydayDreamsProgramming\SaperVB\Saper\bin\Release\Saper.exe.config
+C:\Users\Graham\Desktop\Files\Payday-Dreams\PaydayDreamsProgramming\SaperVB\Saper\obj\x86\Release\Saper.exe
+C:\Users\Graham\Desktop\Files\Payday-Dreams\PaydayDreamsProgramming\SaperVB\Saper\obj\x86\Release\Saper.xml
+C:\Users\Graham\Desktop\Files\Payday-Dreams\PaydayDreamsProgramming\SaperVB\Saper\obj\x86\Release\Saper.pdb
+C:\Users\Graham\Desktop\Files\Programming\PaydayDreamsProgramming\SaperVB\Saper\bin\Release\Saper.exe.config
+C:\Users\Graham\Desktop\Files\Programming\PaydayDreamsProgramming\SaperVB\Saper\obj\x86\Release\Saper.exe
+C:\Users\Graham\Desktop\Files\Programming\PaydayDreamsProgramming\SaperVB\Saper\obj\x86\Release\Saper.xml
+C:\Users\Graham\Desktop\Files\Programming\PaydayDreamsProgramming\SaperVB\Saper\obj\x86\Release\Saper.pdb
+C:\Users\Graham\Desktop\Files\Programming\PaydayDreamsProgramming\SaperVB\Saper\bin\Release\Saper.exe
+C:\Users\Graham\Desktop\Files\Programming\PaydayDreamsProgramming\SaperVB\Saper\bin\Release\Saper.pdb
+C:\Users\Graham\Desktop\Files\Programming\PaydayDreamsProgramming\SaperVB\Saper\bin\Release\Saper.xml
+C:\Users\Graham\Desktop\Files\Programming\PaydayDreamsProgramming\SaperVB\Saper\bin\Release\CookComputing.XmlRpcV2.dll
+C:\Users\Graham\Desktop\Files\Programming\PaydayDreamsProgramming\SaperVB\Saper\bin\Release\HtmlAgilityPack.dll
+C:\Users\Graham\Desktop\Files\Programming\PaydayDreamsProgramming\SaperVB\Saper\bin\Release\MySql.Data.dll
+C:\Users\Graham\Desktop\Files\Programming\PaydayDreamsProgramming\SaperVB\Saper\bin\Release\Newtonsoft.Json.dll
+C:\Users\Graham\Desktop\Files\Programming\PaydayDreamsProgramming\SaperVB\Saper\bin\Release\HtmlAgilityPack.pdb
+C:\Users\Graham\Desktop\Files\Programming\PaydayDreamsProgramming\SaperVB\Saper\bin\Release\HtmlAgilityPack.xml
+C:\Users\Graham\Desktop\Files\Programming\PaydayDreamsProgramming\SaperVB\Saper\obj\x86\Release\Saper.formCaptcha.resources
+C:\Users\Graham\Desktop\Files\Programming\PaydayDreamsProgramming\SaperVB\Saper\obj\x86\Release\Saper.formCategories.resources
+C:\Users\Graham\Desktop\Files\Programming\PaydayDreamsProgramming\SaperVB\Saper\obj\x86\Release\Saper.formCurrency.resources
+C:\Users\Graham\Desktop\Files\Programming\PaydayDreamsProgramming\SaperVB\Saper\obj\x86\Release\Saper.formDetailedProject.resources
+C:\Users\Graham\Desktop\Files\Programming\PaydayDreamsProgramming\SaperVB\Saper\obj\x86\Release\Saper.formDripFeeding.resources
+C:\Users\Graham\Desktop\Files\Programming\PaydayDreamsProgramming\SaperVB\Saper\obj\x86\Release\Saper.formHTML.resources
+C:\Users\Graham\Desktop\Files\Programming\PaydayDreamsProgramming\SaperVB\Saper\obj\x86\Release\Saper.formMain.resources
+C:\Users\Graham\Desktop\Files\Programming\PaydayDreamsProgramming\SaperVB\Saper\obj\x86\Release\Saper.formMozCheck.resources
+C:\Users\Graham\Desktop\Files\Programming\PaydayDreamsProgramming\SaperVB\Saper\obj\x86\Release\Saper.formPreviewText.resources
+C:\Users\Graham\Desktop\Files\Programming\PaydayDreamsProgramming\SaperVB\Saper\obj\x86\Release\Saper.formProject.resources
+C:\Users\Graham\Desktop\Files\Programming\PaydayDreamsProgramming\SaperVB\Saper\obj\x86\Release\Saper.formSaperStats.resources
+C:\Users\Graham\Desktop\Files\Programming\PaydayDreamsProgramming\SaperVB\Saper\obj\x86\Release\Saper.formSettings.resources
+C:\Users\Graham\Desktop\Files\Programming\PaydayDreamsProgramming\SaperVB\Saper\obj\x86\Release\Saper.formStats.resources
+C:\Users\Graham\Desktop\Files\Programming\PaydayDreamsProgramming\SaperVB\Saper\obj\x86\Release\Saper.formTwitter.resources
+C:\Users\Graham\Desktop\Files\Programming\PaydayDreamsProgramming\SaperVB\Saper\obj\x86\Release\Saper.formUpdateLog.resources
+C:\Users\Graham\Desktop\Files\Programming\PaydayDreamsProgramming\SaperVB\Saper\obj\x86\Release\Saper.formZones.resources
+C:\Users\Graham\Desktop\Files\Programming\PaydayDreamsProgramming\SaperVB\Saper\obj\x86\Release\Saper.Resources.resources
+C:\Users\Graham\Desktop\Files\Programming\PaydayDreamsProgramming\SaperVB\Saper\obj\x86\Release\Saper.formLoading.resources
+C:\Users\Graham\Desktop\Files\Programming\PaydayDreamsProgramming\SaperVB\Saper\obj\x86\Release\Saper.vbproj.GenerateResource.Cache
+C:\Users\Graham\Desktop\Files\programming\PaydayDreamsProgramming\SaperVB\Saper\obj\x86\Release\Saper.vbprojAssemblyReference.cache
+C:\Users\Graham\Desktop\Files\programming\PaydayDreamsProgramming\SaperVB\Saper\obj\x86\Release\Saper.vbproj.CoreCompileInputs.cache
+C:\Users\Graham\Desktop\Files\programming\PaydayDreamsProgramming\SaperVB\Saper\obj\x86\Release\Saper.vbproj.CopyComplete

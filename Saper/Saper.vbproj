@@ -1,0 +1,394 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{981220F7-AF50-476C-9D57-63C6BFE322A2}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Saper.My.MyApplication</StartupObject>
+    <RootNamespace>Saper</RootNamespace>
+    <AssemblyName>Saper</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Saper.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Saper.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>On</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>saper-icon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CookComputing.XmlRpcV2, Version=3.0.0.0, Culture=neutral, PublicKeyToken=a7d6e17aa302004d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\CookComputing.XmlRpcV2.dll</HintPath>
+    </Reference>
+    <Reference Include="HtmlAgilityPack">
+      <HintPath>..\..\ArchiveSiteRebuilderC#\packages\HtmlAgilityPack.1.4.9\lib\Net40-client\HtmlAgilityPack.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data, Version=6.8.3.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\MySql.Data.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web">
+      <HintPath>..\..\..\..\..\..\..\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Web.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="formCaptcha.Designer.vb">
+      <DependentUpon>formCaptcha.vb</DependentUpon>
+    </Compile>
+    <Compile Include="formCaptcha.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formCategories.Designer.vb">
+      <DependentUpon>formCategories.vb</DependentUpon>
+    </Compile>
+    <Compile Include="formCategories.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formCurrency.Designer.vb">
+      <DependentUpon>formCurrency.vb</DependentUpon>
+    </Compile>
+    <Compile Include="formCurrency.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formDetailedProject.Designer.vb">
+      <DependentUpon>formDetailedProject.vb</DependentUpon>
+    </Compile>
+    <Compile Include="formDetailedProject.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formDripFeeding.Designer.vb">
+      <DependentUpon>formDripFeeding.vb</DependentUpon>
+    </Compile>
+    <Compile Include="formDripFeeding.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formHTML.Designer.vb">
+      <DependentUpon>formHTML.vb</DependentUpon>
+    </Compile>
+    <Compile Include="formHTML.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formMain.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formMain.Designer.vb">
+      <DependentUpon>formMain.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formMozCheck.Designer.vb">
+      <DependentUpon>formMozCheck.vb</DependentUpon>
+    </Compile>
+    <Compile Include="formMozCheck.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formPreviewText.Designer.vb">
+      <DependentUpon>formPreviewText.vb</DependentUpon>
+    </Compile>
+    <Compile Include="formPreviewText.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formProject.Designer.vb">
+      <DependentUpon>formProject.vb</DependentUpon>
+    </Compile>
+    <Compile Include="formProject.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formSaperStats.Designer.vb">
+      <DependentUpon>formSaperStats.vb</DependentUpon>
+    </Compile>
+    <Compile Include="formSaperStats.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formSettings.Designer.vb">
+      <DependentUpon>formSettings.vb</DependentUpon>
+    </Compile>
+    <Compile Include="formSettings.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formStats.Designer.vb">
+      <DependentUpon>formStats.vb</DependentUpon>
+    </Compile>
+    <Compile Include="formStats.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formTwitter.Designer.vb">
+      <DependentUpon>formTwitter.vb</DependentUpon>
+    </Compile>
+    <Compile Include="formTwitter.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formUpdateLog.Designer.vb">
+      <DependentUpon>formUpdateLog.vb</DependentUpon>
+    </Compile>
+    <Compile Include="formUpdateLog.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formZones.Designer.vb">
+      <DependentUpon>formZones.vb</DependentUpon>
+    </Compile>
+    <Compile Include="formZones.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="saperINI.vb" />
+    <Compile Include="saperJsonObject.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Resources\formLoading.Designer.vb">
+      <DependentUpon>formLoading.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Resources\formLoading.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="saperClassMoz.vb" />
+    <Compile Include="saperCurConverter.vb" />
+    <Compile Include="saperCurUpdates.vb" />
+    <Compile Include="saperFunctions.vb" />
+    <Compile Include="saperSortClass.vb" />
+    <Compile Include="saperXmlRpc.vb" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="formCaptcha.resx">
+      <DependentUpon>formCaptcha.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formCategories.resx">
+      <DependentUpon>formCategories.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formCurrency.resx">
+      <DependentUpon>formCurrency.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formDetailedProject.resx">
+      <DependentUpon>formDetailedProject.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formDripFeeding.resx">
+      <DependentUpon>formDripFeeding.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formHTML.resx">
+      <DependentUpon>formHTML.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formMain.resx">
+      <DependentUpon>formMain.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formMozCheck.resx">
+      <DependentUpon>formMozCheck.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formPreviewText.resx">
+      <DependentUpon>formPreviewText.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formProject.resx">
+      <DependentUpon>formProject.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formSaperStats.resx">
+      <DependentUpon>formSaperStats.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formSettings.resx">
+      <DependentUpon>formSettings.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formStats.resx">
+      <DependentUpon>formStats.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formTwitter.resx">
+      <DependentUpon>formTwitter.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formUpdateLog.resx">
+      <DependentUpon>formUpdateLog.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formZones.resx">
+      <DependentUpon>formZones.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resources\formLoading.resx">
+      <DependentUpon>formLoading.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ico-search.png" />
+    <None Include="Resources\ico-search-urls.ico" />
+    <None Include="Resources\ico-add-project.png" />
+    <None Include="Resources\ico-update.png" />
+    <None Include="Resources\ico-parse.png" />
+    <None Include="Resources\ico-stop.png" />
+    <None Include="Resources\ico-buy.png" />
+    <None Include="Resources\ico-login.png" />
+    <None Include="Resources\ico-login-new.png" />
+    <None Include="Resources\ico-logout.png" />
+    <None Include="Resources\ico-setup.png" />
+    <None Include="Resources\ico-clear.png" />
+    <None Include="Resources\icon-cats.png" />
+    <None Include="Resources\ico-tlds.png" />
+    <None Include="Resources\ico-download-project.png" />
+    <None Include="Resources\ico-export.png" />
+    <None Include="Resources\ico-add.png" />
+    <None Include="Resources\ico-del.png" />
+    <None Include="Resources\ico-trash.png" />
+    <None Include="Resources\ico-browser.png" />
+    <None Include="Resources\ico-arrow-up.png" />
+    <None Include="Resources\ico-arrow-down.png" />
+    <None Include="Resources\ico-arrow-up-new.png" />
+    <None Include="Resources\ico-moz.png" />
+    <None Include="Resources\ico-data.png" />
+    <None Include="Resources\ico-dollar.png" />
+    <None Include="Resources\ico-arrow-up-links.png" />
+    <None Include="Resources\ico-arrow-down-links.png" />
+    <None Include="Resources\ico-delete-links.png" />
+    <None Include="Resources\ico-connect.png" />
+    <None Include="Resources\ico-disconnect.png" />
+    <None Include="Resources\ico-add-all.png" />
+    <None Include="Resources\ico-anchor.png" />
+    <None Include="Resources\ico-update1.png" />
+    <None Include="Resources\ico-update-cur.png" />
+    <None Include="Resources\ico-calculator.png" />
+    <None Include="Resources\img-loading.gif" />
+    <None Include="Resources\ico-search-api.png" />
+    <None Include="Resources\ico-add-dripfeed.png" />
+    <None Include="Resources\img-preview.png" />
+    <None Include="Resources\img-calculator.png" />
+    <None Include="Resources\ico-xml-load.png" />
+    <None Include="Resources\ico-xml-save.png" />
+    <None Include="Resources\ico-parse-twitterers.png" />
+    <None Include="Resources\ico-close.png" />
+    <None Include="Resources\ico-twitter-search.png" />
+    <Content Include="saper-icon.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

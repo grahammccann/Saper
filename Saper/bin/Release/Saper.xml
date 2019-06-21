@@ -1,0 +1,293 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Saper
+</name>
+</assembly>
+<members>
+<member name="T:Saper.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Saper.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Saper.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Saper.My.Resources.Resources.ico_add">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Saper.My.Resources.Resources.ico_add_all">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Saper.My.Resources.Resources.ico_add_dripfeed">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Saper.My.Resources.Resources.ico_add_project">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Saper.My.Resources.Resources.ico_anchor">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Saper.My.Resources.Resources.ico_arrow_down">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Saper.My.Resources.Resources.ico_arrow_down_links">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Saper.My.Resources.Resources.ico_arrow_up">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Saper.My.Resources.Resources.ico_arrow_up_links">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Saper.My.Resources.Resources.ico_arrow_up_new">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Saper.My.Resources.Resources.ico_browser">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Saper.My.Resources.Resources.ico_buy">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Saper.My.Resources.Resources.ico_calculator">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Saper.My.Resources.Resources.ico_clear">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Saper.My.Resources.Resources.ico_close">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Saper.My.Resources.Resources.ico_connect">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Saper.My.Resources.Resources.ico_data">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Saper.My.Resources.Resources.ico_del">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Saper.My.Resources.Resources.ico_delete_links">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Saper.My.Resources.Resources.ico_disconnect">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Saper.My.Resources.Resources.ico_dollar">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Saper.My.Resources.Resources.ico_download_project">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Saper.My.Resources.Resources.ico_export">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Saper.My.Resources.Resources.ico_login">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Saper.My.Resources.Resources.ico_login_new">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Saper.My.Resources.Resources.ico_logout">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Saper.My.Resources.Resources.ico_moz">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Saper.My.Resources.Resources.ico_parse">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Saper.My.Resources.Resources.ico_parse_twitterers">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Saper.My.Resources.Resources.ico_search">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Saper.My.Resources.Resources.ico_search_api">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Saper.My.Resources.Resources.ico_search_urls">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Saper.My.Resources.Resources.ico_setup">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Saper.My.Resources.Resources.ico_stop">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Saper.My.Resources.Resources.ico_tlds">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Saper.My.Resources.Resources.ico_trash">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Saper.My.Resources.Resources.ico_twitter_search">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Saper.My.Resources.Resources.ico_update">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Saper.My.Resources.Resources.ico_update_cur">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Saper.My.Resources.Resources.ico_update1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Saper.My.Resources.Resources.ico_xml_load">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Saper.My.Resources.Resources.ico_xml_save">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Saper.My.Resources.Resources.icon_cats">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Saper.My.Resources.Resources.img_calculator">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Saper.My.Resources.Resources.img_loading">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Saper.My.Resources.Resources.img_preview">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="M:Saper.saperINI.#ctor(System.String)">
+ <summary>
+ IniFile Constructor
+ </summary>
+ <param name="IniPath">The path to the INI file.</param>
+</member>
+<member name="M:Saper.saperINI.ReadValue(System.String,System.String)">
+ <summary>
+ Read value from INI file
+ </summary>
+ <param name="section">The section of the file to look in</param>
+ <param name="key">The key in the section to look for</param>
+</member>
+<member name="M:Saper.saperINI.WriteValue(System.String,System.String,System.String)">
+ <summary>
+ Write value to INI file
+ </summary>
+ <param name="section">The section of the file to write in</param>
+ <param name="key">The key in the section to write</param>
+ <param name="value">The value to write for the key</param>
+</member>
+<member name="M:Saper.MoneyConverter.RubbleToPounds(System.Double)">
+ <summary>
+ Convert rubbles to uk pounds
+ </summary>
+ <param name="amount">Amount in rubbles</param>
+ <returns>Result in pounds</returns>
+ <remarks></remarks>
+</member>
+<member name="M:Saper.MoneyConverter.RubbleToUsd(System.Double)">
+ <summary>
+ Convert rubbles to usd dollars
+ </summary>
+ <param name="amount">Amount in rubbles</param>
+ <returns>Result in dollars</returns>
+ <remarks></remarks>
+</member>
+</members>
+</doc>

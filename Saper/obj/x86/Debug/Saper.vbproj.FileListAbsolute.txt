@@ -1,0 +1,207 @@
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\Saper\Saper\bin\Debug\Saper.exe
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\Saper\Saper\bin\Debug\Saper.pdb
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\Saper\Saper\bin\Debug\Saper.xml
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\Saper\Saper\obj\x86\Debug\Saper.exe
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\Saper\Saper\obj\x86\Debug\Saper.xml
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\Saper\Saper\obj\x86\Debug\Saper.pdb
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\Saper\Saper\obj\x86\Debug\Saper.vbproj.GenerateResource.Cache
+C:\Users\GRAHAM\Desktop\Saper\Saper\Saper\bin\Debug\Saper.exe
+C:\Users\GRAHAM\Desktop\Saper\Saper\Saper\bin\Debug\Saper.pdb
+C:\Users\GRAHAM\Desktop\Saper\Saper\Saper\bin\Debug\Saper.xml
+C:\Users\GRAHAM\Desktop\Saper\Saper\Saper\obj\x86\Debug\WindowsApplication1.formHTML.resources
+C:\Users\GRAHAM\Desktop\Saper\Saper\Saper\obj\x86\Debug\WindowsApplication1.formMain.resources
+C:\Users\GRAHAM\Desktop\Saper\Saper\Saper\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\GRAHAM\Desktop\Saper\Saper\Saper\obj\x86\Debug\Saper.vbproj.GenerateResource.Cache
+C:\Users\GRAHAM\Desktop\Saper\Saper\Saper\obj\x86\Debug\Saper.exe
+C:\Users\GRAHAM\Desktop\Saper\Saper\Saper\obj\x86\Debug\Saper.xml
+C:\Users\GRAHAM\Desktop\Saper\Saper\Saper\obj\x86\Debug\Saper.pdb
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\Saper\Saper\obj\x86\Debug\Saper.vbprojResolveAssemblyReference.cache
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\Saper\Saper\obj\x86\Debug\Saper.formHTML.resources
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\Saper\Saper\obj\x86\Debug\Saper.formMain.resources
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\Saper\Saper\obj\x86\Debug\Saper.formStats.resources
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\Saper\Saper\obj\x86\Debug\Saper.Resources.resources
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\Saper\Saper\obj\x86\Debug\Saper.formProject.resources
+D:\Downloads\Saper\Saper\Saper\obj\x86\Debug\Saper.exe
+D:\Downloads\Saper\Saper\Saper\obj\x86\Debug\Saper.xml
+D:\Downloads\Saper\Saper\Saper\obj\x86\Debug\Saper.pdb
+D:\Downloads\Saper\Saper\Saper\bin\Debug\Saper.exe
+D:\Downloads\Saper\Saper\Saper\bin\Debug\Saper.pdb
+D:\Downloads\Saper\Saper\Saper\bin\Debug\Saper.xml
+D:\Downloads\Saper\Saper\Saper\obj\x86\Debug\Saper.vbprojResolveAssemblyReference.cache
+D:\Downloads\Saper\Saper\Saper\obj\x86\Debug\Saper.formHTML.resources
+D:\Downloads\Saper\Saper\Saper\obj\x86\Debug\Saper.formMain.resources
+D:\Downloads\Saper\Saper\Saper\obj\x86\Debug\Saper.formProject.resources
+D:\Downloads\Saper\Saper\Saper\obj\x86\Debug\Saper.formStats.resources
+D:\Downloads\Saper\Saper\Saper\obj\x86\Debug\Saper.Resources.resources
+D:\Downloads\Saper\Saper\Saper\obj\x86\Debug\Saper.vbproj.GenerateResource.Cache
+C:\Users\GRAHAM\Desktop\Downloads\Saper\Saper\Saper\Saper\obj\x86\Debug\Saper.exe
+C:\Users\GRAHAM\Desktop\Downloads\Saper\Saper\Saper\Saper\obj\x86\Debug\Saper.xml
+C:\Users\GRAHAM\Desktop\Downloads\Saper\Saper\Saper\Saper\obj\x86\Debug\Saper.pdb
+C:\Users\GRAHAM\Desktop\Downloads\Saper\Saper\Saper\Saper\bin\Debug\Saper.exe
+C:\Users\GRAHAM\Desktop\Downloads\Saper\Saper\Saper\Saper\bin\Debug\Saper.pdb
+C:\Users\GRAHAM\Desktop\Downloads\Saper\Saper\Saper\Saper\bin\Debug\Saper.xml
+C:\Users\GRAHAM\Desktop\Downloads\Saper\Saper\Saper\Saper\obj\x86\Debug\Saper.vbprojResolveAssemblyReference.cache
+C:\Users\GRAHAM\Desktop\Downloads\Saper\Saper\Saper\Saper\obj\x86\Debug\Saper.formHTML.resources
+C:\Users\GRAHAM\Desktop\Downloads\Saper\Saper\Saper\Saper\obj\x86\Debug\Saper.formMain.resources
+C:\Users\GRAHAM\Desktop\Downloads\Saper\Saper\Saper\Saper\obj\x86\Debug\Saper.formProject.resources
+C:\Users\GRAHAM\Desktop\Downloads\Saper\Saper\Saper\Saper\obj\x86\Debug\Saper.formStats.resources
+C:\Users\GRAHAM\Desktop\Downloads\Saper\Saper\Saper\Saper\obj\x86\Debug\Saper.Resources.resources
+C:\Users\GRAHAM\Desktop\Downloads\Saper\Saper\Saper\Saper\obj\x86\Debug\Saper.vbproj.GenerateResource.Cache
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\Saper\Saper\obj\x86\Debug\Saper.formCaptcha.resources
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\Saper\Saper\obj\x86\Debug\Saper.formCategories.resources
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\Saper\Saper\obj\x86\Debug\Saper.formZones.resources
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\Saper\Saper\obj\x86\Debug\Saper.formDetailedProject.resources
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\Saper\Saper\bin\Debug\Saper.exe.config
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\Saper\Saper\obj\x86\Debug\Saper.formMozCheck.resources
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\Saper\Saper\obj\x86\Debug\Saper.formSettings.resources
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\Saper\Saper\obj\x86\Debug\Saper.formUpdateLog.resources
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\SaperOld\Saper\bin\Debug\Saper.exe.config
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\SaperOld\Saper\obj\x86\Debug\Saper.exe
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\SaperOld\Saper\obj\x86\Debug\Saper.xml
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\SaperOld\Saper\obj\x86\Debug\Saper.pdb
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\Saper\Saper\obj\x86\Debug\Saper.formCurrency.resources
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\Saper\Saper\obj\x86\Debug\Saper.formLoading.resources
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\Saper\Saper\obj\x86\Debug\Saper.formSaperStats.resources
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\SaperVB\Saper\bin\Debug\Saper.exe.config
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\SaperVB\Saper\obj\x86\Debug\Saper.exe
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\SaperVB\Saper\obj\x86\Debug\Saper.xml
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\SaperVB\Saper\obj\x86\Debug\Saper.pdb
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\SaperVB\Saper\bin\Debug\Saper.exe
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\SaperVB\Saper\bin\Debug\Saper.pdb
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\SaperVB\Saper\bin\Debug\Saper.xml
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\SaperVB\Saper\obj\x86\Debug\Saper.formCaptcha.resources
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\SaperVB\Saper\obj\x86\Debug\Saper.formCategories.resources
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\SaperVB\Saper\obj\x86\Debug\Saper.formCurrency.resources
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\SaperVB\Saper\obj\x86\Debug\Saper.formDetailedProject.resources
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\SaperVB\Saper\obj\x86\Debug\Saper.formHTML.resources
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\SaperVB\Saper\obj\x86\Debug\Saper.formMain.resources
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\SaperVB\Saper\obj\x86\Debug\Saper.formMozCheck.resources
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\SaperVB\Saper\obj\x86\Debug\Saper.formProject.resources
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\SaperVB\Saper\obj\x86\Debug\Saper.formSaperStats.resources
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\SaperVB\Saper\obj\x86\Debug\Saper.formSettings.resources
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\SaperVB\Saper\obj\x86\Debug\Saper.formStats.resources
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\SaperVB\Saper\obj\x86\Debug\Saper.formUpdateLog.resources
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\SaperVB\Saper\obj\x86\Debug\Saper.formZones.resources
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\SaperVB\Saper\obj\x86\Debug\Saper.Resources.resources
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\SaperVB\Saper\obj\x86\Debug\Saper.formLoading.resources
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\SaperVB\Saper\obj\x86\Debug\Saper.vbproj.GenerateResource.Cache
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\SaperVB\Saper\obj\x86\Debug\Saper.formDripFeeding.resources
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\SaperVB\Saper\obj\x86\Debug\Saper.formPreviewText.resources
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\SaperVB\Saper\bin\Debug\HtmlAgilityPack.dll
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\SaperVB\Saper\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\SaperVB\Saper\bin\Debug\HtmlAgilityPack.xml
+D:\UpWork\SaperVB\Saper\bin\Debug\Saper.exe.config
+D:\UpWork\SaperVB\Saper\obj\x86\Debug\Saper.exe
+D:\UpWork\SaperVB\Saper\obj\x86\Debug\Saper.xml
+D:\UpWork\SaperVB\Saper\obj\x86\Debug\Saper.pdb
+D:\UpWork\SaperVB\Saper\bin\Debug\Saper.exe
+D:\UpWork\SaperVB\Saper\bin\Debug\Saper.pdb
+D:\UpWork\SaperVB\Saper\bin\Debug\Saper.xml
+D:\UpWork\SaperVB\Saper\bin\Debug\HtmlAgilityPack.pdb
+D:\UpWork\SaperVB\Saper\bin\Debug\HtmlAgilityPack.xml
+D:\UpWork\SaperVB\Saper\obj\x86\Debug\Saper.vbprojResolveAssemblyReference.cache
+D:\UpWork\SaperVB\Saper\obj\x86\Debug\Saper.formCaptcha.resources
+D:\UpWork\SaperVB\Saper\obj\x86\Debug\Saper.formCategories.resources
+D:\UpWork\SaperVB\Saper\obj\x86\Debug\Saper.formCurrency.resources
+D:\UpWork\SaperVB\Saper\obj\x86\Debug\Saper.formDetailedProject.resources
+D:\UpWork\SaperVB\Saper\obj\x86\Debug\Saper.formDripFeeding.resources
+D:\UpWork\SaperVB\Saper\obj\x86\Debug\Saper.formHTML.resources
+D:\UpWork\SaperVB\Saper\obj\x86\Debug\Saper.formMain.resources
+D:\UpWork\SaperVB\Saper\obj\x86\Debug\Saper.formMozCheck.resources
+D:\UpWork\SaperVB\Saper\obj\x86\Debug\Saper.formPreviewText.resources
+D:\UpWork\SaperVB\Saper\obj\x86\Debug\Saper.formProject.resources
+D:\UpWork\SaperVB\Saper\obj\x86\Debug\Saper.formSaperStats.resources
+D:\UpWork\SaperVB\Saper\obj\x86\Debug\Saper.formSettings.resources
+D:\UpWork\SaperVB\Saper\obj\x86\Debug\Saper.formStats.resources
+D:\UpWork\SaperVB\Saper\obj\x86\Debug\Saper.formUpdateLog.resources
+D:\UpWork\SaperVB\Saper\obj\x86\Debug\Saper.formZones.resources
+D:\UpWork\SaperVB\Saper\obj\x86\Debug\Saper.Resources.resources
+D:\UpWork\SaperVB\Saper\obj\x86\Debug\Saper.formLoading.resources
+D:\UpWork\SaperVB\Saper\obj\x86\Debug\Saper.vbproj.GenerateResource.Cache
+C:\Users\GRAHAM\Desktop\Downloads\SaperVB_Edit1\SaperVB_Edit1\Saper\bin\Debug\Saper.exe.config
+C:\Users\GRAHAM\Desktop\Downloads\SaperVB_Edit1\SaperVB_Edit1\Saper\obj\x86\Debug\Saper.exe
+C:\Users\GRAHAM\Desktop\Downloads\SaperVB_Edit1\SaperVB_Edit1\Saper\obj\x86\Debug\Saper.xml
+C:\Users\GRAHAM\Desktop\Downloads\SaperVB_Edit1\SaperVB_Edit1\Saper\obj\x86\Debug\Saper.pdb
+C:\Users\GRAHAM\Desktop\Downloads\SaperVB_Edit1\SaperVB_Edit1\Saper\bin\Debug\Saper.exe
+C:\Users\GRAHAM\Desktop\Downloads\SaperVB_Edit1\SaperVB_Edit1\Saper\bin\Debug\Saper.pdb
+C:\Users\GRAHAM\Desktop\Downloads\SaperVB_Edit1\SaperVB_Edit1\Saper\bin\Debug\Saper.xml
+C:\Users\GRAHAM\Desktop\Downloads\SaperVB_Edit1\SaperVB_Edit1\Saper\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\GRAHAM\Desktop\Downloads\SaperVB_Edit1\SaperVB_Edit1\Saper\bin\Debug\HtmlAgilityPack.xml
+C:\Users\GRAHAM\Desktop\Downloads\SaperVB_Edit1\SaperVB_Edit1\Saper\obj\x86\Debug\Saper.vbprojResolveAssemblyReference.cache
+C:\Users\GRAHAM\Desktop\Downloads\SaperVB_Edit1\SaperVB_Edit1\Saper\obj\x86\Debug\Saper.formCaptcha.resources
+C:\Users\GRAHAM\Desktop\Downloads\SaperVB_Edit1\SaperVB_Edit1\Saper\obj\x86\Debug\Saper.formCategories.resources
+C:\Users\GRAHAM\Desktop\Downloads\SaperVB_Edit1\SaperVB_Edit1\Saper\obj\x86\Debug\Saper.formCurrency.resources
+C:\Users\GRAHAM\Desktop\Downloads\SaperVB_Edit1\SaperVB_Edit1\Saper\obj\x86\Debug\Saper.formDetailedProject.resources
+C:\Users\GRAHAM\Desktop\Downloads\SaperVB_Edit1\SaperVB_Edit1\Saper\obj\x86\Debug\Saper.formDripFeeding.resources
+C:\Users\GRAHAM\Desktop\Downloads\SaperVB_Edit1\SaperVB_Edit1\Saper\obj\x86\Debug\Saper.formHTML.resources
+C:\Users\GRAHAM\Desktop\Downloads\SaperVB_Edit1\SaperVB_Edit1\Saper\obj\x86\Debug\Saper.formMain.resources
+C:\Users\GRAHAM\Desktop\Downloads\SaperVB_Edit1\SaperVB_Edit1\Saper\obj\x86\Debug\Saper.formMozCheck.resources
+C:\Users\GRAHAM\Desktop\Downloads\SaperVB_Edit1\SaperVB_Edit1\Saper\obj\x86\Debug\Saper.formPreviewText.resources
+C:\Users\GRAHAM\Desktop\Downloads\SaperVB_Edit1\SaperVB_Edit1\Saper\obj\x86\Debug\Saper.formProject.resources
+C:\Users\GRAHAM\Desktop\Downloads\SaperVB_Edit1\SaperVB_Edit1\Saper\obj\x86\Debug\Saper.formSaperStats.resources
+C:\Users\GRAHAM\Desktop\Downloads\SaperVB_Edit1\SaperVB_Edit1\Saper\obj\x86\Debug\Saper.formSettings.resources
+C:\Users\GRAHAM\Desktop\Downloads\SaperVB_Edit1\SaperVB_Edit1\Saper\obj\x86\Debug\Saper.formStats.resources
+C:\Users\GRAHAM\Desktop\Downloads\SaperVB_Edit1\SaperVB_Edit1\Saper\obj\x86\Debug\Saper.formUpdateLog.resources
+C:\Users\GRAHAM\Desktop\Downloads\SaperVB_Edit1\SaperVB_Edit1\Saper\obj\x86\Debug\Saper.formZones.resources
+C:\Users\GRAHAM\Desktop\Downloads\SaperVB_Edit1\SaperVB_Edit1\Saper\obj\x86\Debug\Saper.Resources.resources
+C:\Users\GRAHAM\Desktop\Downloads\SaperVB_Edit1\SaperVB_Edit1\Saper\obj\x86\Debug\Saper.formLoading.resources
+C:\Users\GRAHAM\Desktop\Downloads\SaperVB_Edit1\SaperVB_Edit1\Saper\obj\x86\Debug\Saper.vbproj.GenerateResource.Cache
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\SaperVBHAP\Saper\bin\Debug\Saper.exe.config
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\SaperVBHAP\Saper\obj\x86\Debug\Saper.exe
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\SaperVBHAP\Saper\obj\x86\Debug\Saper.xml
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\SaperVBHAP\Saper\obj\x86\Debug\Saper.pdb
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\SaperVBHAP\Saper\bin\Debug\Saper.exe
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\SaperVBHAP\Saper\bin\Debug\Saper.pdb
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\SaperVBHAP\Saper\bin\Debug\Saper.xml
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\SaperVBHAP\Saper\bin\Debug\HtmlAgilityPack.dll
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\SaperVBHAP\Saper\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\SaperVBHAP\Saper\bin\Debug\HtmlAgilityPack.xml
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\SaperVBHAP\Saper\obj\x86\Debug\Saper.vbprojResolveAssemblyReference.cache
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\SaperVBHAP\Saper\obj\x86\Debug\Saper.formCaptcha.resources
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\SaperVBHAP\Saper\obj\x86\Debug\Saper.formCategories.resources
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\SaperVBHAP\Saper\obj\x86\Debug\Saper.formCurrency.resources
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\SaperVBHAP\Saper\obj\x86\Debug\Saper.formDetailedProject.resources
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\SaperVBHAP\Saper\obj\x86\Debug\Saper.formDripFeeding.resources
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\SaperVBHAP\Saper\obj\x86\Debug\Saper.formHTML.resources
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\SaperVBHAP\Saper\obj\x86\Debug\Saper.formMain.resources
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\SaperVBHAP\Saper\obj\x86\Debug\Saper.formMozCheck.resources
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\SaperVBHAP\Saper\obj\x86\Debug\Saper.formPreviewText.resources
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\SaperVBHAP\Saper\obj\x86\Debug\Saper.formProject.resources
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\SaperVBHAP\Saper\obj\x86\Debug\Saper.formSaperStats.resources
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\SaperVBHAP\Saper\obj\x86\Debug\Saper.formSettings.resources
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\SaperVBHAP\Saper\obj\x86\Debug\Saper.formStats.resources
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\SaperVBHAP\Saper\obj\x86\Debug\Saper.formUpdateLog.resources
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\SaperVBHAP\Saper\obj\x86\Debug\Saper.formZones.resources
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\SaperVBHAP\Saper\obj\x86\Debug\Saper.Resources.resources
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\SaperVBHAP\Saper\obj\x86\Debug\Saper.formLoading.resources
+C:\Users\GRAHAM\Desktop\Payday Dreams\PaydayDreamsProgramming\SaperVBHAP\Saper\obj\x86\Debug\Saper.vbproj.GenerateResource.Cache
+D:\UpWork\SaperVBHAP\Saper\bin\Debug\Saper.exe.config
+D:\UpWork\SaperVBHAP\Saper\obj\x86\Debug\Saper.exe
+D:\UpWork\SaperVBHAP\Saper\obj\x86\Debug\Saper.xml
+D:\UpWork\SaperVBHAP\Saper\obj\x86\Debug\Saper.pdb
+D:\UpWork\SaperVBHAP\Saper\bin\Debug\Saper.exe
+D:\UpWork\SaperVBHAP\Saper\bin\Debug\Saper.pdb
+D:\UpWork\SaperVBHAP\Saper\bin\Debug\Saper.xml
+D:\UpWork\SaperVBHAP\Saper\bin\Debug\HtmlAgilityPack.pdb
+D:\UpWork\SaperVBHAP\Saper\bin\Debug\HtmlAgilityPack.xml
+D:\UpWork\SaperVBHAP\Saper\obj\x86\Debug\Saper.vbprojResolveAssemblyReference.cache
+D:\UpWork\SaperVBHAP\Saper\obj\x86\Debug\Saper.formCaptcha.resources
+D:\UpWork\SaperVBHAP\Saper\obj\x86\Debug\Saper.formCategories.resources
+D:\UpWork\SaperVBHAP\Saper\obj\x86\Debug\Saper.formCurrency.resources
+D:\UpWork\SaperVBHAP\Saper\obj\x86\Debug\Saper.formDetailedProject.resources
+D:\UpWork\SaperVBHAP\Saper\obj\x86\Debug\Saper.formDripFeeding.resources
+D:\UpWork\SaperVBHAP\Saper\obj\x86\Debug\Saper.formHTML.resources
+D:\UpWork\SaperVBHAP\Saper\obj\x86\Debug\Saper.formMain.resources
+D:\UpWork\SaperVBHAP\Saper\obj\x86\Debug\Saper.formMozCheck.resources
+D:\UpWork\SaperVBHAP\Saper\obj\x86\Debug\Saper.formPreviewText.resources
+D:\UpWork\SaperVBHAP\Saper\obj\x86\Debug\Saper.formProject.resources
+D:\UpWork\SaperVBHAP\Saper\obj\x86\Debug\Saper.formSaperStats.resources
+D:\UpWork\SaperVBHAP\Saper\obj\x86\Debug\Saper.formSettings.resources
+D:\UpWork\SaperVBHAP\Saper\obj\x86\Debug\Saper.formStats.resources
+D:\UpWork\SaperVBHAP\Saper\obj\x86\Debug\Saper.formUpdateLog.resources
+D:\UpWork\SaperVBHAP\Saper\obj\x86\Debug\Saper.formZones.resources
+D:\UpWork\SaperVBHAP\Saper\obj\x86\Debug\Saper.Resources.resources
+D:\UpWork\SaperVBHAP\Saper\obj\x86\Debug\Saper.formLoading.resources
+D:\UpWork\SaperVBHAP\Saper\obj\x86\Debug\Saper.vbproj.GenerateResource.Cache
+C:\Users\Graham\Desktop\Payday Dreams\PaydayDreamsProgramming\SaperVB\Saper\obj\x86\Debug\Saper.formTwitter.resources
+C:\Users\Graham\Desktop\Payday Dreams\PaydayDreamsProgramming\SaperVB\Saper\obj\x86\Debug\Saper.vbprojResolveAssemblyReference.cache
